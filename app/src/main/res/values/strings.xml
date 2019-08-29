@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TabLayout_codeTay</string>
+    <string name="first">Go to Second</string>
+    <string name="second">Go to First</string>
+    <string name="enter_values">Enter Values</string>
+    <string name="text">TEXT</string>
 </resources>
